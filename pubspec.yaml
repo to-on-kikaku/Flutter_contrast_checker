@@ -1,6 +1,6 @@
 name: contrast_checker
 description: This library try to help you about checking the contrast of your text color and your background color.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/to-on-kikaku/Flutter_contrast_checker
 repository: https://github.com/to-on-kikaku/Flutter_contrast_checker
 issue_tracker: https://github.com/to-on-kikaku/Flutter_contrast_checker/issues
